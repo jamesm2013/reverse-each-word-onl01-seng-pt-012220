@@ -1,1 +1,1 @@
-defOxford Comma
+def reverse_each_word
